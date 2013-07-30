@@ -1,4 +1,4 @@
-vpysdk
+VP Python SDK
 ======
 
 A Python wrapper for Virtual Paradise developed using SWIG.
