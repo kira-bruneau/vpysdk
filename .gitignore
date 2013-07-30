@@ -1,0 +1,16 @@
+# Generated Folders #
+#####################
+build/
+
+# Generated Python Files #
+##########################
+*.pyc
+
+# Hidden / Backup Files #
+#########################
+.*
+*~
+
+# Don't ignore #
+################
+!.gitignore
