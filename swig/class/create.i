@@ -99,7 +99,7 @@ typedef struct {
     }
     
     int vp_float_set(VPFloatProperty name, float value) {
-      return vp_int_set($self->instance, name, value);
+      return vp_float_set($self->instance, name, value);
     }
     
     void vp_string_set(VPStringProperty name, const char * value) {
